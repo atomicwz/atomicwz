@@ -2,7 +2,7 @@
 #### Desde pequeno sempre fui apaixonado por vídeo games, e ao longos dos anos um vínculo muito forte por tecnologias foi consolidado. Hoje aos 22 anos, estudo programação com muito amor e entusiasmo. Atualmente me encontro em uma busca impetuosa por novos aprendizados na área, me dedicando todo o tempo livre para o mesmo.
 
 ## Cursos e Certificações:
-- Curso comentoria DevQuest
+- Curso com mentoria DevQuest
 - Origamid
 - Desenvolvimento Web Completo
 - Canal Curso em vídeo.
