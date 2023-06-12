@@ -1,11 +1,12 @@
 # Olá! Me chamo Dener Oliveira. 🧙‍♂️
-#### Desde pequeno sempre fui apaixonado por vídeo games, e ao longos dos anos um vínculo muito forte por tecnologias foi consolidado. Hoje aos 22 anos, estudo programação com muito amor e entusiasmo. Atualmente me encontro em uma busca impetuosa por novos aprendizados na área, me dedicando todo o tempo livre para o mesmo.
+#### Desde pequeno sempre fui apaixonado por vídeo games, e ao longos dos anos um vínculo muito forte por tecnologias foi consolidado. Hoje aos 24 anos, com 1 ano de experiência na área, estou sempre me desafiando e buscando aprimoramento.
 
 ## Cursos e Certificações:
 - Curso com mentoria DevQuest
 - Origamid
 - Desenvolvimento Web Completo
 - Canal Curso em vídeo.
+- Engenharia de Software - Estácio
 #### Certificações
 - https://www.origamid.com/certificate/7224c6e8/
 - https://www.origamid.com/certificate/24ec79cb/
